@@ -77,8 +77,6 @@ Using **MediaPipe Holistic**, each frame generates **1,629 features**:
 ## 📂 Project Structure
 
 ```bash
-├── .ipynb_checkpoints/
 ├── coords.csv                 # Raw landmark dataset
-├── body_language.pkl          # Trained ML model
 ├── Body_Language_Decoder.ipynb# Main development notebook
 └── README.md                  # Project documentation
